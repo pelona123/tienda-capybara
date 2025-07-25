@@ -91,9 +91,6 @@ h3 {
   height: 100%;
 
 }
-.producto__informacion {
-  
-}
 .producto__nombre {
   font-size: 4rem;
 }
@@ -122,8 +119,6 @@ h3 {
   .grid{
     grid-template-columns:repeat(3,1fr);
     justify-content: center;
-
-
   }
 }
 .grafico {
@@ -145,7 +140,6 @@ h3 {
   .grafico--node { 
   grid-row: 5/6;
   grid-column: 2/4;
-
 }
 }
 .nosotros {
@@ -156,7 +150,6 @@ h3 {
   .nosotros { 
     grid-template-columns: repeat(2,1fr);
     column-gap: 2rem;
-  
 }
 }
 .nosotros__imagen { 
